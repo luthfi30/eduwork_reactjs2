@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.main {
+  padding: 4%;
+  margin: 200px;
+  text-align: ;
+  border: 1px solid black;
+}
+
+input {
+  padding: 1%;
+  width: 50%;
+  margin: 1% 2%;
+}
+
+button {
+  font-weight: bold;
+  background: red;
+  border: none;
+  color: white;
+  padding: 1%;
+}
